@@ -12,7 +12,7 @@ _"A simple way to Login in a modern website page"._
 
 **PS:** Login was just the context chosen by me for this project, but all the code inside this app can be reused for any app!
 
-**On the Media True coder creator🤩:** A [review](https://youtube.com/watch?v=piG91X4sV2U) about this app (pt-BR 🇧🇷).
+**On the Media True coder creator🤩:** A [review](https://youtube.com/watch?v=piG91X4sV2U) about this app.
 
 ## Why?
 
