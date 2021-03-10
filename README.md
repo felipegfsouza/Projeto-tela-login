@@ -1,4 +1,4 @@
-# MindCast
+# Simple-modern-Login
 
 ![Preview-Screens](https://user-images.githubusercontent.com/68368843/110578651-09f8ed80-8144-11eb-96df-90a7d54783e1.jpg)
 
