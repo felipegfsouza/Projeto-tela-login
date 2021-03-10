@@ -1,8 +1,8 @@
 # MindCast
 
-![Preview-Screens](https://github.com/steniowagner/mindCast/blob/master/PUXA-R10!.png)
+![Preview-Screens](https://user-images.githubusercontent.com/68368843/110578651-09f8ed80-8144-11eb-96df-90a7d54783e1.jpg)
 
-If you want to take a look on all screens of the App, they are [here](https://drive.google.com/drive/folders/1rXFlogxaT5E0pthrrLhF1D_wOVbSHwhD).
+If you want to take a look on all screens of the App, they are [here].
 
 ## About this Project
 
